@@ -1,1 +1,1 @@
-a simple header parser microsrevice for the freecodecamp certificate
+a simple headers parser microsrevice for the freecodecamp certificate
